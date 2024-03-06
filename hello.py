@@ -1,4 +1,4 @@
-# NAME:         FIXME
+# NAME:         Giovanni Rosati
 # ASSIGNMENT:   Project 1
 
 # Example
